@@ -1,6 +1,4 @@
-# meteor-framework7 for
-
-<a href="http://www.idangero.us/framework7/">Framework7 2.0.2</a> wrapper for Meteor.
+# meteor-framework7 for <a href="http://www.idangero.us/framework7/">Framework7 2.0.2</a> wrapper for Meteor.
 You can choose iOS or Material(Android) theme. It is also include all the framework 7 icons updated from <a href="https://github.com/nobutakaoshiro/meteor-framework7-ios-material">nobutakaoshiro:framework7-ios-material</a>.
 
 # How to use it?

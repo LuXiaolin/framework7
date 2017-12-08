@@ -1,18 +1,4 @@
 Package.describe({
-  name: 'framework7',
-  version: '2.0.2',
-  // Brief, one-line summary of the package.
- summary: 'Framework7 (v1.6.0) with Meteor. You can choose iOS or Android theme.',
-  git: 'https://github.com/luxiaolin/framework7.git',
-  documentation: 'README.md'
-});
-
-Package.onUse(function(api) {
-
-});
-
-
-Package.describe({
   name: 'luxiaolin:framework7',
   version: '2.0.2',
   summary: 'Framework7 (v2.0.2) with Meteor. You can choose iOS or Android theme.',
